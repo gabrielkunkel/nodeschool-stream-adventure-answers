@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "concat-stream": "^1.5.2",
+    "split": "^1.0.0",
+    "through2": "^2.0.1",
+    "websocket-stream": "^3.3.0"
+  },
+  "name": "stream-adventure-ans",
+  "version": "1.0.0",
+  "main": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Kunkel",
+  "license": "ISC",
+  "description": "These are my answers, working through Node School\'s Stream Adventure"
+}
